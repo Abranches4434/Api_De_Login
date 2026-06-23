@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.login.apiLogin.ApiLoginApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 57.92 s -- in com.login.apiLogin.ApiLoginApplicationTests
